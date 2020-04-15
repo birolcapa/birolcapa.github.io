@@ -6,6 +6,6 @@ I followed the Quickstart of https://jekyllrb.com/docs/ and created this bare mi
 
 # License
 The following directories and their contents are Copyright Birol Capa.  
-You may not reuse anything therein without my permission:
+You may not reuse anything therein without my permission:  
 _posts/  
 images/  
