@@ -37,7 +37,7 @@ Karakoy Gulluoglu: <https://www.karakoygulluoglu.com/>
 *Alternatives:*  
 Kadikoy Yanyalı Fehmi: <http://www.yanyalifehmi.com/> or <https://goo.gl/gt2hDK>  
 
-**Shopping**
+**Shopping**  
 You need Turkish Liras. We usually use 5, 10, 20, 50, 100 Turkish liras.  
 Don't prefer to take or use 200 Turkish Liras.  
 There may be fraud with 200 Turkish Liras.  
@@ -49,7 +49,7 @@ And something about prices:
 There are non-negotiable price tags in most of the city’s retail outlets.  
 Most exceptions to this rule can be found in the Grand Bazaar.
 
-**Transport**
+**Transport**  
 Be careful with the taxi drivers. (yellow cars which have a label Taksi)  
 Always use google maps.  
 And the last thing about public transportation: <https://goo.gl/JCksmZ>

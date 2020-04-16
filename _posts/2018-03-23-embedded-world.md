@@ -43,7 +43,7 @@ Automated unit testing ve integration test tool’ları embedded dünya için da
 
 Kaspersky OS işletim sistemi güvenlik ile ilgili ilginç örneklerden biri idi. Embedded cihazlar için yazılan uygulamaların koşabileceği güvenli bir işletim sistemi sunduklarını söylüyorlar.
 
-01.03.2018 Üçüncü günden notlar
+**01.03.2018 Üçüncü günden notlar**  
 
 3 ve 3a nolu kısımları gezdik.
 

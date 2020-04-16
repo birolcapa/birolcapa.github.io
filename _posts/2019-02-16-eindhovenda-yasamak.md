@@ -36,6 +36,7 @@ Kişi başı aylık ortalama 125 Euro.
 5. Ulaşım:  
 Aylık her yöne tren bileti 350 Euro. Ayrıntılar için <https://www.ns.nl/>  
 Bu konuda biraz daha faydali olmak adina: <https://www.ns.nl/en/season-tickets/altijd-vrij.html>
+
 6. Çöp Vergisi  
 Ev başı aylık ortalama  25 Euro.
 
