@@ -27,8 +27,7 @@ $$v = \frac{dx}{dt}$$ and $$v = \frac{dv}{dt} = \frac{d}{dt} \frac{dx}{dt} = \fr
 
 ## 2. Uniform Acceleration
 The differential equation of motion for a particle of constant of uniform acceleration in a straight line is simple:  
-
-The acceleration is constant.  
+**The acceleration is constant.**  
 So the second derivative of the position of the particle is constant.
 
 ## 3. Constant translational acceleration in a straight line
