@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi. I'm Birol Capa.
+<img style="float: left; margin-right: 10px;" src="/images/capa_resized.jpg">
+
+Hi. I'm Birol Capa. 
 
 I am just a simple man who is enthusiastic about software development. 
 
