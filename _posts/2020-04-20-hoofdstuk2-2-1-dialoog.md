@@ -2,7 +2,7 @@
 layout: post
 title:  "Hoofdstuk 2: In de kantine"
 date:   2020-04-20 22:11:00 +0200
-categories: [life, dutch]
+categories: dutch
 ---
 
 Susy en Edit zijn in de kantine. Susy drinkt een lekker koje koffie. Ze woont pas drie dagen in Utrecht.
