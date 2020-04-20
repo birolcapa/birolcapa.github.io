@@ -1,6 +1,6 @@
 ---
 id: 288
-title: 'Eindhoven&#8217;da Yaşamak'
+title: Eindhoven'da Yaşamak
 date: 2019-02-16T14:25:51+00:00
 author: birol
 layout: post
