@@ -13,7 +13,7 @@ Edith is een vriend van Susy. Ze is op 21 augustus jarig.
 
 Ze heeft een broer en een zus. Ze krijgt bezoek, haar broer komt.
 
-De ouders van Edith zijn op dit moment in Indonesië, dus ze junnen niet komen. 
+De ouders van Edith zijn op dit moment in Indonesië, dus ze kunnen niet komen. 
 
 Edith weet niet welk seizoen het nu in Indonesië is.
 
