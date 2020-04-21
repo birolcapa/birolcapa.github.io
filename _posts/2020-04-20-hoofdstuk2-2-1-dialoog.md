@@ -5,7 +5,7 @@ date:   2020-04-20 22:11:00 +0200
 categories: dutch
 ---
 
-Susy en Edit zijn in de kantine. Susy drinkt een lekker koje koffie. Ze woont pas drie dagen in Utrecht.
+Susy en Edit zijn in de kantine. Susy drinkt een lekker kopje koffie. Ze woont pas drie dagen in Utrecht.
 
 Het is donderdag 20 augustus.
 
