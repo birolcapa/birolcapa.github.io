@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Kontrol Mühendisliği Hakkında"
+title:  "Kontrol ve Otomasyon Mühendisliği Hakkında"
 date:   2020-04-18 17:13:40 +0200
 categories: life
 ---
 
-Bu yazıyı üniversite tercihi esnasında Kontrol Mühendisliği ile ilgili bilgi edinmek isteyen liseden yeni mezun olmuş bir arkadaşımın sorularına yanıt verirken hazırladım. Başkalarına da yardımcı olabilmesi umuduyla burada da paylaşmak istedim.
+Bu yazıyı üniversite tercihi esnasında Kontrol ve Otomasyon Mühendisliği ile ilgili bilgi edinmek isteyen liseden yeni mezun olmuş bir arkadaşımın sorularına yanıt verirken hazırladım. Başkalarına da yardımcı olabilmesi umuduyla burada da paylaşmak istedim.
 
 2006 yılında girdiğim İTÜ Kontrol Mühendisliği programından 2011 yılında mezun oldum. 
 
