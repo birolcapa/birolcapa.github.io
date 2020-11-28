@@ -147,10 +147,10 @@ int main()
 ```
 
 Finally, here is the output:  
-![Program Output](/images/Minidumpsamleusage.png)  
+![Minidumpsamleusage](/images/Minidumpsamleusage.png)  
 
 Output shows me that execution continues after intentionally created access violation exception.  
 I also end up with a nice call stack in which I can see what may cause the intermittent crash:  
 
-![Call Stack](/images/Minidumpsamleusage_callstack.png)
+![Minidumpsamleusage_callstack](/images/Minidumpsamleusage_callstack.png)
 
