@@ -7,7 +7,7 @@ categories: life
 
 I decided to build a PC.  
 Since I have no clue about it, I got quite some help from my friends.  
-During this process some web pages were quite useful for me.  
+During this process, some web pages were also quite useful for me.  
 1. The very first website is: <https://pcpartpicker.com>  
 
 2. As the community describes itself: "A place where all enthusiasts of PC, PC gaming and PC technology": <https://www.reddit.com/r/pcmasterrace>
