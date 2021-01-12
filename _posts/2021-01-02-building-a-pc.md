@@ -26,4 +26,12 @@ They have so many videos even a "First Person View PC BUILD Guide!": <https://yo
     - Maximum graphics card length
     - Maximum PSU length
 
+![Motherboard](/images/pc_build/motherboard_1.jpg)
+
+![Motherboard and CPU](/images/pc_build/motherboard_cpu.jpg)
+
+![Motherboard and Noctua](/images/pc_build/motherboard_noctua.jpg)
+
+![Motherboard and Meshify](/images/pc_build/motherboard_meshify.jpg)
+
 **Disclaimer:** I do not have any relationship with the websites mentioned above.
