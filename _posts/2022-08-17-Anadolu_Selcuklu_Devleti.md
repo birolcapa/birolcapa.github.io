@@ -5,7 +5,7 @@ date:   2022-08-17 21:44:00 +0200
 categories: bookmarks
 ---
 
-Sayin Ord. Prof. İsmail Hakkı UZUNÇARŞILI'nın OSMANLI TARİHİ 1. Cilt kitabından:
+Sayın Ord. Prof. İsmail Hakkı UZUNÇARŞILI'nın OSMANLI TARİHİ 1. Cilt kitabından:
 
 * Alaüddin Keykubad'ın yirmi iki sene sürmüş olan devri Selçuk devletinin siyaseten, iktisaden ve imar cihetinden yükseliş devridir.
 
