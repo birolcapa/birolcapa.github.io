@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anadolu Selçuk Devleti Hakkında"
+title:  "Anadolu Selçuklu Devleti Hakkında"
 date:   2022-08-17 21:44:00 +0200
 categories: bookmarks
 ---
