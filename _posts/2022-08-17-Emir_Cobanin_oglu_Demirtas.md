@@ -28,3 +28,7 @@ Sayın Ord. Prof. İsmail Hakkı UZUNÇARŞILI'nın OSMANLI TARİHİ 1. Cilt kit
 
 <p style="text-align: right;"><sup>highlight @ loc. 1110-1112</sup></p>
 
+* Rüknüddin Kılıç Arslan, bir içki meclisinde Muînüddin Süleyman'ın tahakkümünden ve adamlarının fenalığından şikâyet ettiğinden bunu haber alan Muînüddin, Kılıç Arslan'ın Memlûk sultanı ile gizli muhaberesinden bahis ile moğollara şikâyet ettiğinden Aksaray şehrinde öldürülerek yerine küçük yaşta olan oğlu Üçüncü Giyasüddin Keyhusrev hükümdar ilân olundu ve Süleyman Pervane bütün işlerde hâkim olup moğolların büyük itimadını haiz bulunuyordu (1264).
+
+<p style="text-align: right;"><sup>highlight @ page 57, loc. 868-873</sup></p>
+
