@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fatih Sultan Mehmed"
+title:  "Fatih Sultan Mehmed 1. Cilt"
 date:   2024-07-21 13:20:00 +0200
 categories: bookmarks
 ---
